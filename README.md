@@ -84,10 +84,10 @@ https://github.com/code-423n4/code423n4.com/blob/main/_data/reports/2022-02-hubb
 
 ## ERC20 zero transfer
 
-2022-02-aave-lens.md#m-09-collect-modules-can-fail-on-zero-amount-transfers-if-treasury-fee-is-set-to-zero
+https://github.com/code-423n4/code423n4.com/blob/main/_data/reports/2022-02-aave-lens.md#m-09-collect-modules-can-fail-on-zero-amount-transfers-if-treasury-fee-is-set-to-zero
 
-2022-02-concur.md#m-29-convexstakingwrapper-deposits-and-withdraws-will-frequently-be-disabled-if-a-token-that-doesnt-allow-zero-value-transfers-will-be-added-as-a-reward-one
+https://github.com/code-423n4/code423n4.com/blob/main/_data/reports/2022-02-concur.md#m-29-convexstakingwrapper-deposits-and-withdraws-will-frequently-be-disabled-if-a-token-that-doesnt-allow-zero-value-transfers-will-be-added-as-a-reward-one
 
-2022-05-sturdy.md#m-04-convexcurvelpvaults-_transferyield-can-become-stuck-with-zero-reward-transfer 
+https://github.com/code-423n4/code423n4.com/blob/main/_data/reports/2022-05-sturdy.md#m-04-convexcurvelpvaults-_transferyield-can-become-stuck-with-zero-reward-transfer 
 
-2022-02-hubble.md#m-10-blocking-of-the-vusd-withdrawals-is-possible-if-the-reserve-token-doesnt-support-zero-value-transfers
+https://github.com/code-423n4/code423n4.com/blob/main/_data/reports/2022-02-hubble.md#m-10-blocking-of-the-vusd-withdrawals-is-possible-if-the-reserve-token-doesnt-support-zero-value-transfers
